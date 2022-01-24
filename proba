@@ -1,5 +1,6 @@
 #includt <iostream>
 int main(){
 cout<<"Hello world";
+cin>>a;
 return 0;
 }
